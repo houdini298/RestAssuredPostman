@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="fcuellar-Suite">
+    <test name="TestSuite">
+        <classes>
+            <class name="org.fcuellar.Prueba1.PruebaUno"></class>
+        </classes>
+    </test>
+</suite>
